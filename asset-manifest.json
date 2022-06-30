@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/HeshamShaarawy.github.io/SimplereactNews/static/css/main.073c9b0a.css",
+    "main.js": "/HeshamShaarawy.github.io/SimplereactNews/static/js/main.14d46ce8.js",
+    "static/js/787.bdfab159.chunk.js": "/HeshamShaarawy.github.io/SimplereactNews/static/js/787.bdfab159.chunk.js",
+    "index.html": "/HeshamShaarawy.github.io/SimplereactNews/index.html",
+    "main.073c9b0a.css.map": "/HeshamShaarawy.github.io/SimplereactNews/static/css/main.073c9b0a.css.map",
+    "main.14d46ce8.js.map": "/HeshamShaarawy.github.io/SimplereactNews/static/js/main.14d46ce8.js.map",
+    "787.bdfab159.chunk.js.map": "/HeshamShaarawy.github.io/SimplereactNews/static/js/787.bdfab159.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.14d46ce8.js"
+  ]
+}
